@@ -118,7 +118,7 @@ body{
 
 h2{
 	font-size: 40px;
-	margin:20px 0;
+	margin:30px 0;
 }
 
 h3{
@@ -165,20 +165,19 @@ aside{
 	text-shadow:none;
 }
 
-#main header h2{
-	padding-bottom:10px;
-}
-
 article header{
 	margin-bottom:50px;
 	padding-bottom:30px;
-	width:700px;
+	width:600px;
 	-webkit-box-shadow:0 45px 60px -60px #AAA;
 	   -moz-box-shadow:0 45px 60px -60px #AAA;
 	        box-shadow:0 45px 60px -60px #AAA;
 }
 article a { color: #084c8d; }
 article a:visited { color: #6682b5; }
+article li{
+	font:16px/26px Helvetica, Helvetica Neue, Arial;
+}
 
 #footer-container{
 	background-color:#084c8d;
@@ -192,67 +191,4 @@ article a:visited { color: #6682b5; }
 
 #footer-container footer{
 	color:white;
-}
-
-.info{
-	position:absolute;
-	top:5px;
-	background-color:white;
-	padding:10px;
-}
-
-#jquery-test{
-	top:45px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-.ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
-.hidden { display: none; visibility: hidden; }
-.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
-.visuallyhidden.focusable:active,
-.visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
-.invisible { visibility: hidden; }
-.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
-.clearfix:after { clear: both; }
-.clearfix { zoom: 1; }
-
-
-@media all and (orientation:portrait) {
-
-}
-
-@media all and (orientation:landscape) {
-
-}
-
-@media screen and (max-device-width: 480px) {
-
-  /* html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } */
-}
-
-
-@media print {
-  * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important;
-  -ms-filter: none !important; } 
-  a, a:visited { color: #444 !important; text-decoration: underline; }
-  a[href]:after { content: " (" attr(href) ")"; }
-  abbr[title]:after { content: " (" attr(title) ")"; }
-  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  
-  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
-  thead { display: table-header-group; }
-  tr, img { page-break-inside: avoid; }
-  @page { margin: 0.5cm; }
-  p, h2, h3 { orphans: 3; widows: 3; }
-  h2, h3{ page-break-after: avoid; }
 }
