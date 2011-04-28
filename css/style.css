@@ -110,19 +110,19 @@ body{
 }
 
 #title{
-	font-size: 80px;
+	font-size: 60px;
 	color:white;
 	padding-top:35px;
 	float:left;
 }
 
 h2{
-	font-size: 55px;
-	margin:30px 0;
+	font-size: 40px;
+	margin:20px 0;
 }
 
 h3{
-	font-size: 40px;
+	font-size: 30px;
 	margin:10px 0;
 }
 
@@ -142,6 +142,7 @@ nav a{
 	background-color:#d5d5e5;
 	font-size: 18px;
 }
+nav a:visited { color: #084c8d; }
 
 aside{
 	color:white;
@@ -165,7 +166,7 @@ aside{
 }
 
 #main header h2{
-	padding-bottom:30px;
+	padding-bottom:10px;
 }
 
 article header{
