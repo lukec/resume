@@ -1,0 +1,108 @@
+Resume of Luke Closs
+lukecloss@gmail.com
+1.604.807.3906
+Vancouver, BC, Canada
+
+Luke has over 10 years of experience building innovative and crafty software for customers and for his teams.  From cellular networks to anti-spam to appliances and social software, Luke has grown codebases and organicly lead teams towards a reflective, trustful, agile practice. 
+
+Most recently, I've been working at Socialtext as one of the core developers.  I'm proud both of what we built and also how we built it.  I learned a tremendous amount while working with a very talented team.
+
+- Guided our globally decentralized engineering team through major transitions
+- Built an innovative culture through monthly open R&D "Wiki Wednesday" days
+- Built a dev practice that used agile, lean, kanban, retrospectives
+- Migrated a legacy webapp codebase into modern code and real-time architecture
+  without any major business interruptions, in a small memory footprint.
+- Stood on the shoulders of giants to build an awesome REST API.
+- Technically: Years of Modern Perl, Javascript, Async, Nginx, PostgreSQL, Git
+
+When I'm not writing code for Socialtext, I've been writing code for citizens.  I co-created an award winning Open Data application called VanTrash.ca.  Built on the simple idea of helping people remember garbage day, it demonstrated a model for citizen and government co-collaboration.  Since then, I've co-founded a service called Recollect.net which gives citizens a more useful and modern interface into a civic service and enables municipalities to better communicate to it's citizens.
+
+I also maintain many open source libraries and tools on github.com/lukec.  I co-created and maintained the Perl driver for the Selenium project.
+
+Relevant Skills
+
+Technical:
+ Coach and developer on PureMessage for UNIX Anti-Spam team
+  - Building a mod_perl based web management interface
+  - Interfacing with project customers to manage priorities
+  - Coaching Story and Test Driven Development
+  - Creating extensive automated unit, system and web tests
+
+ Designed and developed UNIX installer for Sophos PureMessage
+  - Works on Linux/Solaris/Freebsd/AIX/HPUX/MacOSX
+  - Improved data update mechanisms for Appliance and UNIX products
+
+ Involved with Open Source community
+  - Maintain Test-WWW-Selenium Perl driver for Selenium web testing tool
+  - Presented about Selenium at YAPC::NA 2006, Vancouver.pm, Sophos
+
+ Developed internal tools and services
+  - Introduced wikis to organization and integrated with existing processes
+  - Linked data of between development tools (wiki, perforce, bugzilla...)
+  - Created PureMessage functional and performance test infrastructure
+
+Soft skills
+  - Careful listening skills lead to deep understanding of issues
+  - Pragmatic approach to balancing customer and engineering needs
+  - At ease talking, presenting ideas, leading design sessions
+  - Open minded, creative approach to solving problems
+  - Speaker at OSCON, YAPC::NA, Vancouver Agile Conference, others
+
+Other
+  - Dvorak speed, vim mastery, bash skilled, and screen proficient
+
+
+Work Experience
+
+
+Sophos Canada                                           October 2003 - Present
+ Agile coach and developer - PureMessage UNIX         December 2005 - Present
+  - Managed release to improve system-wide performance
+  - Created sexy new interface for product administration
+  - Coached new team on development of legacy product
+
+ Development toolsmith                              June 2005 - December 2005
+  - Created and managed interval development tools server
+  - Integrated TWiki, Bugzilla, and other 3rd party and custom tools
+  - Investigated possible new development tools
+  - Created solution for automating testing of web development
+
+ PureMessage core developer                          October 2003 - June 2005
+  - Rewrote unix install experience to be simpler and more streamlined
+  - Improved and maintained product updating mechanisms
+  - Measured performance metrics through automated testing
+
+ Lead juggler                                          October 2003 - Present
+  - Taught many employees to juggle
+  - Can (could?) fit body through tennis racket
+  - Entertained at Staff events and conferences
+
+Telos Technology - Software Developer                 June 2001 - October 2003
+  - Designed and developed GSM/IS41/UMTS Wireless Softswitch in C
+  - Created tools to perform automated regression and performance testing
+  - Worked with Architects and Senior Engineers to analyze performance
+    problems and refactor the entire product
+
+
+Other Experience
+
+ACM International Intercollegiate Programming Competition        November 2000
+  - Nominated Team Leader of BCIT's four person team
+  - Placed 9th out of 48 teams in Pacific NW Region
+
+
+Education
+
+British Columbia Institute of Technology                 Sept 1999 - June 2001
+  - Computer Systems Technology - Data Communications Major (with Honours)
+  - Project Leader of class wide Linux project
+  - Project Leader of two industry projects
+
+University College of the Fraser Valley                  Sept 1998 - Apr 1999
+  - 4.0 GPA in Economics, Calculus and Accounting
+
+
+Interests
+
+ - Juggling and object manipulation (balls, clubs, ruby, ...)
+ - camping, sailing, hiking, gardening
